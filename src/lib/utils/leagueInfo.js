@@ -8,7 +8,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>Welcome to the Transatlantic Super League page on Vercel!</p>
-  <p>Founded in 2021.</p>
+  <p>Founded in 2022.</p>
 `;
 
 /*   STEP 3   */
